@@ -71,6 +71,16 @@ input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
+.errors {
+  width: 70%;
+  height: 15%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 14.6%;
+  font-size: 0.7em;
+  color: red;
+}
 main hr {
   width: 90%;
   border: none;
